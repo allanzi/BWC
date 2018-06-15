@@ -1,0 +1,17 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+// Variables
+@import "components/variables";
+
+// Materialize
+@import '~materialize-css/sass/materialize';
+
+.text-upper {
+  text-transform: uppercase;
+}
+
+.pointer {
+  cursor: pointer;
+}
